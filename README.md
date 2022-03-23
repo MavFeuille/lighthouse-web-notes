@@ -1,4 +1,4 @@
-# [MavFeuille]'s Notes
+# MavFeuille's Notes
 
 ## Summary 
 
